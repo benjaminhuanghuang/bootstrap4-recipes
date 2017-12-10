@@ -1,0 +1,2 @@
+- col-md-auto : col width based on the content
+- justify-content-md-center : put all sub elements at the center
